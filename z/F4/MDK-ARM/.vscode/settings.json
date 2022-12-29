@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "myi2c.h": "c"
+    }
+}
